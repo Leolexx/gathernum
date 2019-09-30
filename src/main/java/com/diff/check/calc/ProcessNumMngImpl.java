@@ -12,7 +12,7 @@ import java.util.Set;
  * Сервис обработки чисел
  *
  * @author Lev
- * @version 1.04
+ * @version 1.02
  */
 @Service
 public class ProcessNumMngImpl implements ProcessNumMng, Consts {
